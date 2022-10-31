@@ -38,3 +38,9 @@ And after adding the maximum number of fields that was defined in the input the 
 
 
 
+
+
+
+
+
+https://githubsfdeploy.herokuapp.com/app/githubdeploy/MohamedTarekDG/LWC-Add-Remove-Buttons

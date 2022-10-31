@@ -1,5 +1,9 @@
 # Increment And Add Button
 
+<a href="https://githubsfdeploy.herokuapp.com?owner=MohamedTarekDG&amp;repo=LWC-Add-Remove-Buttons">
+  <img src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png" alt="Deploy to Salesforce" />
+</a>
+
 This component is used to increment and decrement a variabe which can be used to show other components using condotional rendering in screen flows.
 ## Component Variables
 

@@ -30,7 +30,7 @@ export default class GenericFlowButton extends LightningElement {
         const attributeChangeEvent = new FlowAttributeChangeEvent('Current_Number_Of_Fields',this.Current_Number_Of_Fields);
         this.dispatchEvent(attributeChangeEvent);  
         }
-        this.Show_Add_Button=this.Current_Number_Of_Fields<this.Maximum_Number_Of_Fields;
+        this.Show_Add_Button=(this.Maximum_Number_Of_Fields== null || this.Current_Number_Of_Fields<this.Maximum_Number_Of_Fields);
         this.Show_Remove_Button=(this.Current_Number_Of_Fields!=0);
 
     }
@@ -44,7 +44,7 @@ export default class GenericFlowButton extends LightningElement {
     
             }
             this.Show_Remove_Button=(this.Current_Number_Of_Fields!=0);
-            this.Show_Add_Button=this.Current_Number_Of_Fields<this.Maximum_Number_Of_Fields;
+            this.Show_Add_Button=(this.Maximum_Number_Of_Fields== null || this.Current_Number_Of_Fields<this.Maximum_Number_Of_Fields)
 
     }
 

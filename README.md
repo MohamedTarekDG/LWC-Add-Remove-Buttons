@@ -1,4 +1,4 @@
-# Increment And Add Button
+# Increment And Decrement Button
 
 <a href="https://githubsfdeploy.herokuapp.com?owner=MohamedTarekDG&amp;repo=LWC-Add-Remove-Buttons">
   <img src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png" alt="Deploy to Salesforce" />

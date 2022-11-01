@@ -1,4 +1,5 @@
-![Digital Gears Logo](images/Digital_Gears_Logo.jpg]
+![Conditional image](images/Digital_Gears_Logo.jpg)
+
 # Increment And Decrement Button
 
 <a href="https://githubsfdeploy.herokuapp.com?owner=MohamedTarekDG&amp;repo=LWC-Add-Remove-Buttons">

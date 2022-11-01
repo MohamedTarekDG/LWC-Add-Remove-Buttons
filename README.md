@@ -1,10 +1,12 @@
+Digital Gears Logo_Blue BG.
+![Digital Gears Logo](images/Digital Gears Logo_Blue BG.jpg]
 # Increment And Decrement Button
 
 <a href="https://githubsfdeploy.herokuapp.com?owner=MohamedTarekDG&amp;repo=LWC-Add-Remove-Buttons">
   <img src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png" alt="Deploy to Salesforce" />
 </a>
 
-This component is used to increment and decrement a variabe which can be used to show other components using condotional rendering in screen flows.
+This component is used to increment and decrement a variable which can be used to show other components using conditional rendering in screen flows.
 ## Component Variables
 
 Add_Button_Label : This variable is used for the label for incrementing button
@@ -46,5 +48,3 @@ And after adding the maximum number of fields that was defined in the input the 
 
 
 
-
-https://githubsfdeploy.herokuapp.com/app/githubdeploy/MohamedTarekDG/LWC-Add-Remove-Buttons
